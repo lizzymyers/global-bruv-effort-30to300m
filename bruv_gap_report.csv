@@ -1,0 +1,22 @@
+region_bin,n_records,lat_centroid,lon_centroid,min_depth,max_depth,gap_status,priority_score
+Arabian Sea / Persian Gulf,0,17.5,62.5,NA,NA,critical gap,5
+Bay of Bengal,0,15,89,NA,NA,critical gap,5
+Central Pacific,0,0,190,NA,NA,critical gap,5
+W Africa coast,0,7.5,-5,NA,NA,critical gap,5
+E Africa coast,0,-7.5,45,NA,NA,critical gap,5
+Great Barrier Reef,0,-17.5,149,NA,NA,critical gap,5
+Florida / Gulf Mexico,0,25,-86.5,NA,NA,critical gap,5
+South Ocean (high lat),0,-60,0,NA,NA,critical gap,5
+Arctic,0,77.5,0,NA,NA,critical gap,5
+Western Indian Ocean,31,5.989851612903226,41.511525806451615,34.9,115.1,moderate,2
+Eastern Indian Ocean,49,0.050057142857142904,76.09189183673469,30.5,150,moderate,2
+Brazil / S Atlantic,49,-3.8133061224489797,-32.41491224489796,140.8,218.9,moderate,2
+SE Asia Archipelago,136,-7.34964044117647,124.31654852941176,30.1,132.3,well sampled,1
+Western Pacific (equatorial),564,-15.469355319148937,148.12957819148937,30.1,148.9,well sampled,1
+Eastern Pacific (tropical),68,-10.500626470588236,-124.48730441176471,51.7,139.4,well sampled,1
+Mediterranean,88,35.54544318181818,19.9631625,31.2,110,well sampled,1
+Caribbean,357,22.233894117647058,-75.82688067226891,60.2,170,well sampled,1
+SW Australia,312,-25.905616346153845,113.51158333333333,40,119.9,well sampled,1
+SE Australia / NZ,379,-35.6171963060686,160.40839102902373,30,137.6,well sampled,1
+Hawaii / C Pacific,134,20.981474626865673,-157.49542686567165,80.1,159.9,well sampled,1
+NE Atlantic,57,55.61958070175439,0.3955666666666666,40,155.8,well sampled,1
